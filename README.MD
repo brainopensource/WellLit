@@ -13,7 +13,7 @@ It provides interactive visualizations, filtering, and adjustment of well produc
 
 ## Requirements
 
-- Python 3.8+  
+- Python 3.10+  
 - pip  
 
 ## Setup
