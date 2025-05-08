@@ -14,3 +14,4 @@ __pycache__/
 # Byte-compiled / optimized / DLL files
 
 raw_production_data.txt
+src/utils/connectors/mocked_prod_data.py
