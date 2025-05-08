@@ -12,4 +12,5 @@ __pycache__/
 # Python
 *.py[cod]
 # Byte-compiled / optimized / DLL files
-__pycache__/
+
+raw_production_data.txt
